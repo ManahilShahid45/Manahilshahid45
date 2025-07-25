@@ -31,8 +31,8 @@ I enjoy applying my technical knowledge through hands-on projects and continuous
 
 ### 📫 Contact
 
-- 📧 **Email:** manahil.shahid@email.com *(replace with your real one)*
-- 💼 **LinkedIn:** [linkedin.com/in/manahil-shahid](https://www.linkedin.com/in/manahil-shahid) *(replace if needed)*
+- 📧 **Email:** manahilshahid100@email.com 
+- 💼 **LinkedIn:** [linkedin.com/in/manahil-shahid](www.linkedin.com/in/manahil-shahid-346005309) 
 - 💻 **GitHub:** [github.com/manahil-shahid](https://github.com/manahil-shahid)
 
 ---
