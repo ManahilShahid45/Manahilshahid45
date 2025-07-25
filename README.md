@@ -34,3 +34,5 @@ I enjoy applying my technical knowledge through hands-on projects and continuous
 - 💻 **GitHub:** [Manahilshahid45](https://github.com/ManahilShahid45)
 
 ---
+
+*Open to data science internships, AI/ML collaborations, and real-world analytical projects.*
