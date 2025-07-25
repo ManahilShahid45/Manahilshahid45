@@ -1,8 +1,6 @@
-<h2 align="center">👋 Hi, I'm Manahil Shahid</h2>
+## 👋 Hi, I'm Manahil Shahid
 
-<p align="center">
-  <strong>BS Data Science | COMSATS University Islamabad | Data Science Intern @ Code Sentinel | Python, R, Java, C++</strong>
-</p>
+**BS Data Science | COMSATS University Islamabad | Data Science Intern @ Code Sentinel | Python, R, Java, C++**
 
 ---
 
@@ -32,7 +30,7 @@ I enjoy applying my technical knowledge through hands-on projects and continuous
 ### 📫 Contact
 
 - 📧 **Email:** manahilshahid100@email.com 
-- 💼 **LinkedIn:** [linkedin.com/in/manahil-shahid](www.linkedin.com/in/manahil-shahid-346005309) 
-- 💻 **GitHub:** [github.com/manahil-shahid](https://github.com/manahil-shahid)
+- 💼 **LinkedIn:** [ManahilShahid](https://www.linkedin.com/in/manahil-shahid-346005309/) 
+- 💻 **GitHub:** [Manahilshahid45](https://github.com/ManahilShahid45)
 
 ---
