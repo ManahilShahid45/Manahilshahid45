@@ -27,6 +27,13 @@ I enjoy applying my technical knowledge through hands-on projects and continuous
 
 ---
 
+### 📜 Certifications
+
+1. 📘 **[Data Science 101 – Cognitive Class](https://courses.cognitiveclass.ai/certificates/7fa116e768964f6eadd74b36036f4159)**
+2. 📘 **[Data Analysis with Python – Cognitive Class](https://courses.cognitiveclass.ai/certificates/973a5a0d329b43f494063fc4ca327054)**
+
+---
+
 ### 📫 Contact
 
 - 📧 **Email:** manahilshahid100@email.com 
