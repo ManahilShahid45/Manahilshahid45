@@ -38,7 +38,7 @@ Continuous learning and experimentation drive me, and I am always excited to exp
 
 ### 📫 Contact
 
-- 📧 **Email:** manahilshahid100@email.com  
+- 📧 **Email:** manahilshahid100@gmail.com  
 - 💼 **LinkedIn:** [ManahilShahid](https://www.linkedin.com/in/manahil-shahid-346005309/)  
 - 💻 **GitHub:** [Manahilshahid45](https://github.com/ManahilShahid45)
 
