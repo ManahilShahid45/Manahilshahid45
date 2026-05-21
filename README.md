@@ -56,7 +56,7 @@ I specialize in **Machine Learning**, **Natural Language Processing (NLP)**, **T
 
 1. 📘 **[Data Science 101 – Cognitive Class (IBM)](https://courses.cognitiveclass.ai/certificates/7fa116e768964f6eadd74b36036f4159)**
 2. 📘 **[Data Analysis with Python – Cognitive Class (IBM)](https://courses.cognitiveclass.ai/certificates/973a5a0d329b43f494063fc4ca327054)**
-3. 📘 **[Machine Learning with Python – Cognitive Class (IBM)]([https://courses.cognitiveclass.ai/certificates/bc39a8daaae54a899fc444385a1669e7)**
+3. 📘 **[Machine Learning with Python – Cognitive Class (IBM)](https://courses.cognitiveclass.ai/certificates/bc39a8daaae54a899fc444385a1669e7)**
 
 ---
 
